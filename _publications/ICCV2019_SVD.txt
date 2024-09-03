@@ -1,0 +1,15 @@
+@inproceedings{SVD:conf/iccv/JiangHLLLL19,
+  author       = {Qing{-}Yuan Jiang and
+                  Yi He and
+                  Gen Li and
+                  Jian Lin and
+                  Lei Li and
+                  Wu{-}Jun Li},
+  title        = {{SVD:} {A} Large-Scale Short Video Dataset for Near-Duplicate Video
+                  Retrieval},
+  booktitle    = {{IEEE/CVF} International Conference on Computer Vision},
+  pages        = {5280--5288},
+  publisher    = {{IEEE}},
+  year         = {2019},
+  doi          = {10.1109/ICCV.2019.00538},
+}

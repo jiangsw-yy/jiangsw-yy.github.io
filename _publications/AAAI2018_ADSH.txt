@@ -1,0 +1,10 @@
+@inproceedings{ADSH:conf/aaai/JiangL18,
+  author       = {Qing{-}Yuan Jiang and
+                  Wu{-}Jun Li},
+  title        = {Asymmetric Deep Supervised Hashing},
+  booktitle    = {Proceedings of the Thirty-Second {AAAI} Conference on Artificial Intelligence},
+  pages        = {3342--3349},
+  publisher    = {{AAAI} Press},
+  year         = {2018},
+  doi          = {10.1609/AAAI.V32I1.11814},
+}

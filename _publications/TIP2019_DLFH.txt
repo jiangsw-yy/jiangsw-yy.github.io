@@ -1,0 +1,11 @@
+@article{DLFH:journals/tip/JiangL19,
+  author       = {Qing{-}Yuan Jiang and
+                  Wu{-}Jun Li},
+  title        = {Discrete Latent Factor Model for Cross-Modal Hashing},
+  journal      = {{IEEE} Transactions on Image Processing},
+  volume       = {28},
+  number       = {7},
+  pages        = {3490--3501},
+  year         = {2019},
+  doi          = {10.1109/TIP.2019.2897944},
+}

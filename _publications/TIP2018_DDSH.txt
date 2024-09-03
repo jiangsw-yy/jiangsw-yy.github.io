@@ -1,0 +1,12 @@
+@article{DDSH:journals/tip/JiangCL18,
+  author       = {Qing{-}Yuan Jiang and
+                  Xue Cui and
+                  Wu{-}Jun Li},
+  title        = {Deep Discrete Supervised Hashing},
+  journal      = {{IEEE} Transactions on Image Processing},
+  volume       = {27},
+  number       = {12},
+  pages        = {5996--6009},
+  year         = {2018},
+  doi          = {10.1109/TIP.2018.2864894},
+}

@@ -1,0 +1,66 @@
+# Site settings
+title: Dr. Qing-Yuan Jiang
+email: jiangqy@njust.edu.cn
+description: Personal webpage of Dr. Qing-Yuan Jiang
+# baseurl: ""
+# url: ""
+affiliation: I am an Associate Professor at NJUST.
+
+# # Google analytics ID
+# google_analytics: G-7BE63RZMTW
+
+# Location info. (shown in footer)
+location: >
+  Room 4069, Dingxin Building, Nanjing University of Science and Technology.
+
+# Contact info. (shown in footer)
+contact: >
+    Contact me via email: <a href="mailto:jiangqy@njust.edu.cn" target="_blank">jiangqy@njust.edu.cn</a><br/>
+
+# Pages shown in navbar
+nav_pages:
+  - name: about
+  - name: student
+  - name: publications
+  - name: notes
+  # - name: gallery
+  # - name: project
+
+# Do you want to group your publications by year? {true/false}
+# group_pub_by_year: true
+
+collections:
+  publications:
+    output: true
+  notes:
+    output: true
+  gallery:
+    output: true
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+usemathjax: true
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  syntax_highlighter: rouge

@@ -1,0 +1,14 @@
+@inproceedings{DBLP:conf/interspeech/FanJYL19,
+  author       = {Lei Fan and
+                  Qing{-}Yuan Jiang and
+                  Ya{-}Qi Yu and
+                  Wu{-}Jun Li},
+  editor       = {Gernot Kubin and
+                  Zdravko Kacic},
+  title        = {Deep Hashing for Speaker Identification and Retrieval},
+  booktitle    = {Proceedings of the 20th Annual Conference of the International Speech Communication Association},
+  pages        = {2908--2912},
+  publisher    = {{ISCA}},
+  year         = {2019},
+  doi          = {10.21437/INTERSPEECH.2019-2457},
+}

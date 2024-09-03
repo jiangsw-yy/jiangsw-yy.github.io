@@ -1,0 +1,10 @@
+@inproceedings{SGH:conf/ijcai/JiangL15,
+  author       = {Qing{-}Yuan Jiang and
+                  Wu{-}Jun Li},
+  title        = {Scalable Graph Hashing with Feature Transformation},
+  booktitle    = {Proceedings of the Twenty-Fourth International Joint Conference on
+                  Artificial Intelligence},
+  pages        = {2248--2254},
+  publisher    = {{AAAI} Press},
+  year         = {2015},
+}

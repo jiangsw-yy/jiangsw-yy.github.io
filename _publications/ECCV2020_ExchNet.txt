@@ -1,0 +1,16 @@
+@inproceedings{ExchNet:conf/eccv/CuiJWLY20,
+  author       = {Quan Cui and
+                  Qing{-}Yuan Jiang and
+                  Xiu{-}Shen Wei and
+                  Wu{-}Jun Li and
+                  Osamu Yoshie},
+  title        = {ExchNet: {A} Unified Hashing Network for Large-Scale Fine-Grained
+                  Image Retrieval},
+  booktitle    = {Proceedings of the 16th European Conference on Computer Vision},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {12348},
+  pages        = {189--205},
+  publisher    = {Springer},
+  year         = {2020},
+  doi          = {10.1007/978-3-030-58580-8\_12},
+}

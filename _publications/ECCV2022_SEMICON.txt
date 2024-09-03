@@ -1,0 +1,16 @@
+@inproceedings{SEMICON:conf/eccv/ShenSWJY22,
+  author       = {Yang Shen and
+                  Xuhao Sun and
+                  Xiu{-}Shen Wei and
+                  Qing{-}Yuan Jiang and
+                  Jian Yang},
+  title        = {{SEMICON:} {A} Learning-to-Hash Solution for Large-Scale Fine-Grained
+                  Image Retrieval},
+  booktitle    = {Proceedings of the 17th European Conference on Computer Vision},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {13674},
+  pages        = {531--548},
+  publisher    = {Springer},
+  year         = {2022},
+  doi          = {10.1007/978-3-031-19781-9\_31},
+}

@@ -1,0 +1,29 @@
+- name: ACCV
+  year: 2018
+
+- name: CVPR
+  year: 2018
+
+- name: AAAI
+  year: 2019
+
+- name: ICML
+  year: 2019
+
+- name: NeurIPS
+  year: 2019
+
+- name: NeurIPS
+  year: 2020
+
+- name: AAAI
+  year: 2020
+
+- name: ICLR
+  year: 2021
+
+- name: AAAI
+  year: 2021
+
+- name: IJCAI
+  year: 2021
