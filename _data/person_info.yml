@@ -1,18 +1,18 @@
-- name: Dr. Qing-Yuan Jiang
-  zh_name: 蒋庆远
-  photo-small: jiangqy.jpg
+- name: Shu-Wan Jiang
+  zh_name: 蒋疏晚
+  photo-small: jiangsw.jpg
   info: Associate Professor
   email: qyjiang24@gmail.com
   github: https://github.com/jiangqy
   scholar: https://scholar.google.com/citations?user=2RtnHp4AAAAJ&hl=en&oi=ao
   cv: https://jiangqy.github.io/publications/assert/JiangQY.pdf
-  website: https://jiangqy.github.io
+  website: https://jiangsw-yy.github.io
   number_educ: 4
-  education1: (2024~now) Associate Professor, Nanjing University of Science and Technology
-  education2: (2020~2024) Huawei, Algorithm Researcher
-  education3: (2014~2020) Ph.D, LAMDA, Nanjing University
-  education4: (2010~2014) B.Sc., Nanjing University
-  education1short: (2024~now) Associate Professor, NJUST
-  education2short: (2020~2024) Researcher, Huawei
-  education3short: (2014~2020) Ph.D, LAMDA, NJU
-  education4short: (2010~2014) B.Sc., NJU
+  # education1: (2024~now) Associate Professor, Nanjing University of Science and Technology
+  # education2: (2020~2024) Huawei, Algorithm Researcher
+  # education3: (2014~2020) Ph.D, LAMDA, Nanjing University
+  # education4: (2010~2014) B.Sc., Nanjing University
+  # education1short: (2024~now) Associate Professor, NJUST
+  # education2short: (2020~2024) Researcher, Huawei
+  # education3short: (2014~2020) Ph.D, LAMDA, NJU
+  # education4short: (2010~2014) B.Sc., NJU

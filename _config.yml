@@ -1,40 +1,19 @@
-# Site settings
-title: Dr. Qing-Yuan Jiang
-email: jiangqy@njust.edu.cn
-description: Personal webpage of Dr. Qing-Yuan Jiang
-# baseurl: ""
-# url: ""
-affiliation: I am an Associate Professor at NJUST.
+title: YouYou's Home
+description: Homepage of YouYou
 
-# # Google analytics ID
-# google_analytics: G-7BE63RZMTW
 
-# Location info. (shown in footer)
 location: >
-  Room 4069, Dingxin Building, Nanjing University of Science and Technology.
-
-# Contact info. (shown in footer)
-contact: >
-    Contact me via email: <a href="mailto:jiangqy@njust.edu.cn" target="_blank">jiangqy@njust.edu.cn</a><br/>
+  Nanjing, China.
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
-  - name: student
-  - name: publications
-  - name: notes
-  # - name: gallery
-  # - name: project
-
-# Do you want to group your publications by year? {true/false}
-# group_pub_by_year: true
+  - name: album
+  - name: travel
 
 collections:
-  publications:
+  album:
     output: true
-  notes:
-    output: true
-  gallery:
+  travel:
     output: true
 
 include:
