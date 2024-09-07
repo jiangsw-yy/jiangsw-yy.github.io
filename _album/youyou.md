@@ -73,10 +73,10 @@ usemathjax : true
 
 <div style="text-align: center;">
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163437.jpg" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163455.jpg" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163524.jpg" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163530.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163437.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163455.jpg" width="200" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163524.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163530.jpg" width="200" />
 </p>
 </div>
 * 2024年7月27日，南理工夜游

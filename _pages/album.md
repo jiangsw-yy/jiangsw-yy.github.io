@@ -33,3 +33,16 @@ permalink: /album/
 </ul>
 </div>
 
+<div class="well-sm publication-entry">
+<ul class="flex-container">
+<li class="flex-item1">
+    <img src="{{ site.url }}{{ site.baseurl }}/album/graffiti/0.jpg" width="300"  class="img-responsive"/>
+</li>
+  <li class="flex-item2">
+    <p style="margin-top: 0.5em;"><a href="{{ site.url }}{{ site.baseurl }}/album/graffiti" target="_blank"><strong>柚柚的涂鸦</strong></a>
+    <br/> Since 2022.
+    </p>
+  </li>
+</ul>
+</div>
+
