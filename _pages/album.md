@@ -23,7 +23,7 @@ permalink: /album/
 <div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
-    <img src="{{ site.url }}{{ site.baseurl }}/album/nanjing/nanjing.jpg" width="300"  class="img-responsive"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/album/njtc/nanjing.jpg" width="300"  class="img-responsive"/>
 </li>
   <li class="flex-item2">
     <p style="margin-top: 0.5em;"><a href="{{ site.url }}{{ site.baseurl }}/album/nanjingtengchong" target="_blank"><strong>腾冲 • 南京</strong></a>

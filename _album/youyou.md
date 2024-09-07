@@ -8,9 +8,15 @@ usemathjax : true
 
 <!-- * 2022年12月29日，柚柚出生 -->
 
+
 * 2023年12月29日，满月抓周
 
 <div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231229_163735.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231229_163739.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231229_163747.jpg" width="275" />
+</p>
 <p float="left">
   <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-4.jpg" width="275" />
   <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-5.jpg" width="275" /> 
@@ -18,14 +24,28 @@ usemathjax : true
 </p>
 </div>
 
-
-* 2023年12月29日，满月抓周
+* 2023年12月，南京植物园
 
 <div style="text-align: center;">
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-4.jpg" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-5.jpg" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-6.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231119_105522.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231119_105550.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231119_105551.jpg" width="275" />
+</p>
+</div>
+
+* 2023年12月，南京市长江大桥
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_104824.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_104834.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_105513.jpg" width="275" />
+</p>
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_105529.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_111248.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20231231_112116.jpg" width="275" />
 </p>
 </div>
 
@@ -49,6 +69,16 @@ usemathjax : true
 </p>
 </div>
 
+* 2024年2月，在家
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163437.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163455.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163524.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_20240201_163530.jpg" width="275" />
+</p>
+</div>
 * 2024年7月27日，南理工夜游
 
 <div style="text-align: center;">
