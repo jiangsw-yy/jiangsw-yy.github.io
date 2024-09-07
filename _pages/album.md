@@ -14,7 +14,7 @@ permalink: /album/
 </li>
   <li class="flex-item2">
     <p style="margin-top: 0.5em;"><a href="{{ site.url }}{{ site.baseurl }}/album/youyou" target="_blank"><strong>柚柚成长记录</strong></a>
-    <br/> Since Dec. 29, 2022.
+    <br/> Since Dec. 2022.
     </p>
   </li>
 </ul>
