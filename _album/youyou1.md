@@ -32,14 +32,14 @@ usemathjax : true
 
 <div style="text-align: center;">
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1663.JPG" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1665.JPG" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1666.JPG" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1663.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1665.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1666.jpg" width="275" />
 </p>
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1667.JPG" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1668.JPG" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1669.JPG" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1667.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1668.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_1669.jpg" width="275" />
 </p>
 </div>
 
@@ -47,9 +47,9 @@ usemathjax : true
 
 <div style="text-align: center;">
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2231.JPG" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2234.JPG" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2236.JPG" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2231.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2234.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2236.jpg" width="275" />
 </p>
 </div>
 
@@ -58,12 +58,17 @@ usemathjax : true
 
 <div style="text-align: center;">
 <p float="left">
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2280.JPG" width="275" />
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2294.JPG" width="275" /> 
-  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2306.JPG" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2280.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2294.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/IMG_2306.jpg" width="275" />
 </p>
 </div>
 
+* 2023年4月19日，学会翻身啦
+
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?isOutside=true&aid=995204936&bvid=BV1Es4y1d7x7&cid=1101845516&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
 
 * 2023年12月，南京植物园
 
