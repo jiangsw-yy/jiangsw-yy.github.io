@@ -23,7 +23,7 @@ permalink: /album/
 <div class="well-sm publication-entry">
 <ul class="flex-container">
 <li class="flex-item1">
-    <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-0.jpg" width="300"  class="img-responsive"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-14.jpg" width="300"  class="img-responsive"/>
 </li>
   <li class="flex-item2">
     <p style="margin-top: 0.5em;"><a href="{{ site.url }}{{ site.baseurl }}/album/youyou2" target="_blank"><strong>柚柚成长记录 • 两岁</strong></a>

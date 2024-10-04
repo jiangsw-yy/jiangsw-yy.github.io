@@ -59,3 +59,21 @@ usemathjax : true
   <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/youyou-16.jpg" width="275" />
 </p>
 </div>
+
+
+* 2024年10月3日，南京华墅村 • 秋天来了
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-6.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-14.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-13.jpg" width="275" />
+</p>
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-9.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-11.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/桦墅村-10.jpg" width="275" />
+</p>
+</div>
+
+
