@@ -76,4 +76,42 @@ usemathjax : true
 </p>
 </div>
 
+* 2024年11月，腾冲 • 第一次回老家
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/TC_1.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/TC_2.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/TC_3.jpg" width="275" />
+</p>
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/TC_5.jpg" width="825" />
+</p>
+</div>
+
+
+* 2024年11月，南京银杏湖 • 团建
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/YXH_1.jpg" width="275" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/YXH_3.jpg" width="275" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/YXH_5.jpg" width="275" />
+</p>
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/YXH_4.jpg" width="825" />
+</p>
+</div>
+
+* 2024年11月，南京湖熟 • 赏秋菊
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/hs-1.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/hs-3.jpg" width="200" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/hs-6.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/hs-8.jpg" width="200" />
+</p>
+</div>
+
 
