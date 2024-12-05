@@ -115,3 +115,19 @@ usemathjax : true
 </div>
 
 
+
+* 2024年12月，南京江心洲 • 生日照
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/birthday-7.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/birthday-8.jpg" width="200" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/birthday-9.jpg" width="200" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/birthday-12.jpg" width="200" />
+</p>
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/birthday-11.jpg" width="800" />
+</p>
+</div>
+
+
