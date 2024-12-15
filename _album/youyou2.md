@@ -130,4 +130,14 @@ usemathjax : true
 </p>
 </div>
 
+* 2024年12月，南京 • 玄武湖
+
+<div style="text-align: center;">
+<p float="left">
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/xwh-1.jpg" width="300" />
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/xwh-2.jpg" width="300" /> 
+  <img src="{{ site.url }}{{ site.baseurl }}/album/youyou/xwh-11.jpg" width="300" />
+</p>
+</div>
+
 
